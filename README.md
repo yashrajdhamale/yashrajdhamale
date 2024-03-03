@@ -2,9 +2,7 @@
 
 # Introduction
 
-Markdown is an easy-to-read, easy-to-write language for formatting plain text. You can use Markdown syntax, along with some additional HTML tags, to format your writing on GitHub, in places like repository READMEs and comments on pull requests and issues. In this guide, you'll learn some advanced formatting features by creating or editing a README for your GitHub profile.
 
-If you're new to Markdown, you might want to start with "Basic writing and formatting syntax" or the Communicate using Markdown GitHub Skills course.
 
 # Creating or editing your profile README
 
@@ -16,25 +14,13 @@ If you don't already have a profile README, you can add one.
 - Edit the README.md file and delete the template text (beginning ### Hi there) that is automatically added when you create the file.
 - If you already have a profile README, you can edit it from your profile page.
 
-# Adding an image to suit your visitors
-
-You can include images in your communication on GitHub. Here, you'll add a responsive image, such as a banner, to the top of your profile README.
-
-By using the HTML <picture> element with the prefers-color-scheme media feature, you can add an image that changes depending on whether a visitor is using light or dark mode. For more information, see "Managing your theme settings."
-
-Copy and paste the following markup into your README.md file.
-
-
-
-
-
 #About me
+
 Hi, I'm Mona. You might recognize me as GitHub's mascot.
 
 Two lines below this paragraph, insert a table by copying and pasting the following markup.
 
-<details>
-<summary>My top THINGS-TO-RANK</summary>
+
 
 |  NO  |    SKILLS     |
 |-----:|---------------|
@@ -43,12 +29,10 @@ Two lines below this paragraph, insert a table by copying and pasting the follow
 |  3   |  JAVASCRIPT   |
 |  4   |    DSA C++    |
 
-</details>
 
-<details open>
 
 
 ---
-> QUOTE
+> Keep Working
 
-Feel free to modify this README as needed to better suit your preferences and personality!
+
