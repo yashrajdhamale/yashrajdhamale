@@ -28,8 +28,31 @@ Copy and paste the following markup into your README.md file.
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
+
+#About me
+Hi, I'm Mona. You might recognize me as GitHub's mascot.
+
+Two lines below this paragraph, insert a table by copying and pasting the following markup.
+
+
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1|               |
 |     2|               |
 |     3|               |
+
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
+
+<details open>
+
+
+---
+> QUOTE
+
+Feel free to modify this README as needed to better suit your preferences and personality!
