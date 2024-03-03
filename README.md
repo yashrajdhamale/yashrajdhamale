@@ -1,3 +1,5 @@
+![Image Alt Text](bac.jpeg)
+
 # Introduction
 
 Markdown is an easy-to-read, easy-to-write language for formatting plain text. You can use Markdown syntax, along with some additional HTML tags, to format your writing on GitHub, in places like repository READMEs and comments on pull requests and issues. In this guide, you'll learn some advanced formatting features by creating or editing a README for your GitHub profile.
@@ -22,31 +24,24 @@ By using the HTML <picture> element with the prefers-color-scheme media feature,
 
 Copy and paste the following markup into your README.md file.
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
 
-![Image Alt Text](bac.jpeg)
+
+
 
 #About me
 Hi, I'm Mona. You might recognize me as GitHub's mascot.
 
 Two lines below this paragraph, insert a table by copying and pasting the following markup.
 
-
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
-
-
 <details>
 <summary>My top THINGS-TO-RANK</summary>
 
-YOUR TABLE
+|  NO  |    SKILLS     |
+|-----:|---------------|
+|  1   |     HTML      |
+|  2   |     CSS       |
+|  3   |  JAVASCRIPT   |
+|  4   |    DSA C++    |
 
 </details>
 
