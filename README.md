@@ -28,6 +28,7 @@ Copy and paste the following markup into your README.md file.
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
+![Image Alt Text](bac.jepg)
 
 #About me
 Hi, I'm Mona. You might recognize me as GitHub's mascot.
