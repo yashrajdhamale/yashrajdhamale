@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj81&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj81" /> </p>
-
 # Introduction
 Welcome to my GitHub page! Here, you'll find a collection of projects I've developed, ranging from web development to data structures and algorithms implementations. As an engineer, I'm dedicated to creating practical solutions that address real-world challenges. Feel free to explore my projects and don't hesitate to reach out if you have any questions or feedback!
 
@@ -18,3 +16,4 @@ I am an engineer with a passion for innovation and problem-solving. My journey i
 
 ---
 > Keep Working
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj81&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj81" /> </p>
