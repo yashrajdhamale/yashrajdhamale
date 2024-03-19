@@ -14,6 +14,8 @@ I am an engineer with a passion for innovation and problem-solving. My journey i
 | 4    | DSA (C++)    |
 | 5    | React.js     |
 
+[Bluesky](https://bsky.app/profile/yashrajdhamale.bsky.social)
+
 ---
 > Keep Working
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj81&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj81" /> </p>
