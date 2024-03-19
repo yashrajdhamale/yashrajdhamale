@@ -14,8 +14,8 @@ I am an engineer with a passion for innovation and problem-solving. My journey i
 | 4    | DSA (C++)    |
 | 5    | React.js     |
 
-[Bluesky](https://bsky.app/profile/yashrajdhamale.bsky.social)
-[Leetcode](https://leetcode.com/yashrajdhamale/)
+-[Bluesky](https://bsky.app/profile/yashrajdhamale.bsky.social)
+-[Leetcode](https://leetcode.com/yashrajdhamale/)
 
 ---
 > Keep Working
