@@ -17,6 +17,15 @@ I am an engineer with a passion for innovation and problem-solving. My journey i
 -[Bluesky](https://bsky.app/profile/yashrajdhamale.bsky.social)
 -[Leetcode](https://leetcode.com/yashrajdhamale/)
 
+# My Project
+
+This is a description of my project.
+
+## Useful Links
+- [GitHub](https://github.com)
+- [Documentation](https://example.com/documentation)
+
+
 ---
 > Keep Working
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj81&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj81" /> </p>
