@@ -18,6 +18,7 @@ I am an engineer with a passion for innovation and problem-solving. My journey i
 ## Useful Links
 - [Bluesky](https://bsky.app/profile/yashrajdhamale.bsky.social)
 - [Leetcode](https://leetcode.com/yashrajdhamale/)
+- [Medium](yashrajdhamale.medium.com)
 
 
 ---
