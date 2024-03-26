@@ -23,12 +23,12 @@ I am an engineer with a passion for innovation and problem-solving. My journey i
 
 # My GitHub Stats
 
-[![GitHub stats](https://img.shields.io/badge/dynamic/json?label=GitHub%20Stats&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3Duser%3Ayourusername)](https://github.com/yourusername)
+[![GitHub stats](https://img.shields.io/badge/dynamic/json?label=GitHub%20Stats&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3Duser%3Ayourusername)](https://github.com/yashrajdhamale)
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepository.svg)](https://github.com/yourusername/yourrepository/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepository.svg)](https://github.com/yourusername/yourrepository/network)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/yourrepository.svg)](https://github.com/yourusername/yourrepository/issues)
-[![GitHub license](https://img.shields.io/github/license/yourusername/yourrepository.svg)](https://github.com/yourusername/yourrepository/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/yashrajdhamale/yourrepository.svg)](https://github.com/yashrajdhamale/yourrepository/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yashrajdhamale/yourrepository.svg)](https://github.com/yashrajdhamale/yourrepository/network)
+[![GitHub issues](https://img.shields.io/github/issues/yashrajdhamale/yourrepository.svg)](https://github.com/yashrajdhamale/yourrepository/issues)
+[![GitHub license](https://img.shields.io/github/license/yashrajdhamale/yourrepository.svg)](https://github.com/yashrajdhamale/yourrepository/blob/main/LICENSE)
 
 ---
 > Keep Working
