@@ -25,7 +25,7 @@ I am an engineer with a passion for innovation and problem-solving. My journey i
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashrajdhamale&show_icons=true&theme=radical)](https://github.com/yashrajdhamale)
 
-![Contribution Graph](https://github-readme-stats.vercel.app/api?username=yashrajdhamale)
+
 
 ---
 > Keep Working
