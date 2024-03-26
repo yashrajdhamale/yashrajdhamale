@@ -23,12 +23,8 @@ I am an engineer with a passion for innovation and problem-solving. My journey i
 
 # My GitHub Stats
 
-[![GitHub stats](https://img.shields.io/badge/dynamic/json?label=GitHub%20Stats&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3Duser%3Ayourusername)](https://github.com/yashrajdhamale)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashrajdhamale&show_icons=true&theme=radical)](https://github.com/yashrajdhamale)
 
-[![GitHub stars](https://img.shields.io/github/stars/yashrajdhamale/QR.svg)](https://github.com/yashrajdhamale/QR/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yashrajdhamale/QR.svg)](https://github.com/yashrajdhamale/QR/network)
-[![GitHub issues](https://img.shields.io/github/issues/yashrajdhamale/QR.svg)](https://github.com/yashrajdhamale/QR/issues)
-[![GitHub license](https://img.shields.io/github/license/yashrajdhamale/QR.svg)](https://github.com/yashrajdhamale/QR/blob/main/LICENSE)
 
 ---
 > Keep Working
