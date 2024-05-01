@@ -20,6 +20,7 @@ I am an engineer with a passion for innovation and problem-solving. My journey i
 - [Leetcode](https://leetcode.com/yashrajdhamale/)
 - [Medium](https://yashrajdhamale.medium.com/)
 - [LFX](https://openprofile.dev/profile/yashrajdhamale)
+- [GDF](https://g.dev/yashrajdhamale)
 
 # My GitHub Stats
 
