@@ -21,6 +21,7 @@ I am an engineer with a passion for innovation and problem-solving. My journey i
 - [Medium](https://yashrajdhamale.medium.com/)
 - [LFX](https://openprofile.dev/profile/yashrajdhamale)
 - [GDF](https://g.dev/yashrajdhamale)
+- [TUF](https://takeuforward.org/profile/yashrajdhamale)
 
 # My GitHub Stats
 
