@@ -8,11 +8,10 @@ I am an engineer with a passion for innovation and problem-solving. My journey i
 
 | NO   | SKILLS       |
 |-----:|--------------|
-| 1    | HTML         |
-| 2    | CSS          |
-| 3    | JavaScript   |
-| 4    | DSA (C++)    |
-| 5    | React.js     |
+| 1    |  MERN STACK  |
+| 2    |  DSA (JAVA)  |
+| 3    |  MYSQL       |
+
 
 
 ## Useful Links
