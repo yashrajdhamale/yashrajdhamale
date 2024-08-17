@@ -1,8 +1,8 @@
 # Introduction
-Welcome to my GitHub page! Here, you'll find a collection of projects I've developed, ranging from web development to data structures and algorithms implementations. As an engineer, I'm dedicated to creating practical solutions that address real-world challenges. Feel free to explore my projects and don't hesitate to reach out if you have any questions or feedback!
+Welcome to my GitHub page! Here, you'll find a collection of projects I've developed, ranging from web development to data structures and algorithm implementations. As an engineer, I'm dedicated to creating practical solutions that address real-world challenges. Feel free to explore my projects and don't hesitate to reach out if you have any questions or feedback!
 
 # About Me
-I am an engineer with a passion for innovation and problem-solving. My journey in the field of technology has equipped me with skills in HTML, CSS, JavaScript, DSA (C++), and React.js. With each project, I strive to push the boundaries of what's possible and learn new concepts along the way.
+I am an engineer with a passion for innovation and problem-solving. My journey in technology has equipped me with MERN and DSA(JAVA) skills. With each project, I strive to push the boundaries of what's possible and learn new concepts.
 
 # Skills
 
