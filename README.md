@@ -11,7 +11,7 @@ I am an engineer with a passion for innovation and problem-solving. My journey i
 | 1    |  MERN STACK  |
 | 2    |  DSA (JAVA)  |
 | 3    |  MYSQL       |
-| 3    |  MongoDB     |
+| 4    |  MongoDB     |
 
 
 
